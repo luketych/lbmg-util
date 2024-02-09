@@ -1,0 +1,21 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__
+
+# Ignore environment folder (created by Poetry)
+.env/
+
+# Ignore distribution folders
+dist/
+build/
+*.egg-info/
+*.egg/
+
+# Ignore local development files
+*.swp
+*.log
+
+# Ignore system and IDE-specific files
+.vscode/
+.idea/
+.DS_Store

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lbmg-util"
+name = "lbmg_util"
 version = "0.0.0"
 description = ""
 authors = ["luketych <mrlanderson69@gmail.com>"]
